@@ -1,0 +1,14 @@
+bob: 20 Moves Made, 100 Thirstiness
+test: 20 Moves Made, 100 Thirstiness
+te: 34 Moves Made, 100 Thirstiness
+1: 28 Moves Made, 100 Thirstiness
+(LOST) 1: 20 Moves Made, 100 Thirstiness
+(LOST) 21: 20 Moves Made, 100 Thirstiness
+(LOST) 1: 20 Moves Made, 100 Thirstiness
+jim: 24 Moves Made, 70 Thirstiness
+(LOST) poo: 3 Moves Made, 105 Thirstiness
+(LOST) peeop: 12 Moves Made, 105 Thirstiness
+test: 26 Moves Made, 80 Thirstiness
+(LOST) 1: 20 Moves Made, 100 Thirstiness
+T: 16 Moves Made, 80 Thirstiness
+(LOST) Jamal: 21 Moves Made, 100 Thirstiness
